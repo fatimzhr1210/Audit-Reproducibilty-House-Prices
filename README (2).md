@@ -78,5 +78,6 @@ Selisih beberapa persen antar lingkungan atau antar seed masih wajar.
   kompetisi Kaggle adalah RMSE pada log harga.
 
 ## 7. Sumber
-- Notebook asli: *House Prices Prediction using TFDF* (Kaggle) https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf/notebook 
+- Notebook asli: *House Prices Prediction using TFDF* (Kaggle)
+  https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf/notebook 
 - Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
